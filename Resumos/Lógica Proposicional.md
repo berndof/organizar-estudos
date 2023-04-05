@@ -114,24 +114,9 @@ uma fórmula atômica constante possui um valor-verdade fixo.
 - A quarta coluna corresponde à *disjunção* de **p** com **¬q**, ou seja, **p ∨ ¬q**, a qual contém o
 resultado desejado
 
-<table>
-    <style>
-        th {
-            background-color: grey;
-            text-align: center;
-        }
-        td{
-            text-align: center;
-        }
-    </style>
-
-<tr>
-        <th><b> p </b></th>   <th><b> q </b></th>   <th><b> ¬q </b></th>   <th><b> p ∨ ¬q </b></th>
-</tr>
-<tr>
-        <td> V </td> <td> V </td> <td> F </td> <td> F </td>
-</tr>
-<tr>
-        <td> V </td> <td> V </td> <td> F </td> <td> F </td>
-</tr>
-</table>
+| p | q | ¬q | p ∨ ¬q |
+|:-:|:-:|:--:|:------:|
+| V | V | F  |    V   |
+| V | F | V  |    V   |
+| F | V | F  |    F   |
+| F | F | V  |    V   |
