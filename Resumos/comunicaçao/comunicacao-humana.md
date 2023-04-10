@@ -13,6 +13,14 @@ De modo geral, a comunicação pode ser entendida como
 **interpretação** de mensagens por meio de signos,
 símbolos ou códigos*.
 
+Embora o conceito de comunicação venha se tornando bastante amplo com o
+passar do tempo, a origem da palavra tem sentidos que o delimitam:
+
+1. Comunicação é um *processo **social***; requer interação social
+2. É um fenômeno **objetivo**, transmitir uma mensagem entre transmissor e receptor
+3. É um *processo **ativo***, que te como finalidade, persuadir, informar, influenciar, obter resposta, sensibilizar, etc.
+4 É quas sempre **multidirecional**, uma vez que transmissor e receptor mudam constantemente de papeis durante a interação
+
 ### **Tipos de comunicação**
 
 A comunicaçao pode ser classificada de acordo com o
@@ -22,23 +30,48 @@ Alguns dos principais tipos de comunicação são:
 
 <br>
 
-- **Comunicação verbal**:
-É a forma que *utiliza a língua oral ou escrita como meio
-de transmissão de mensagem*. É a forma mais comum de
-comunicação e ocorre em situações de diálogo, palestras, debates e etc.
+- #### Direta ou indireta:
+    - ##### Direta 
+        Quando o emissor e o receptor trocam as mensagens diretamente, sem nenhum intermediário.
+    
+    - ##### Indireta
+        Quando há um intermediário entre o emissor e o receptor,
+        por exemplo carta, livro, telefone, etc.
 
-- **Comunicação não verbal**:
-*Utiliza gestos, expressões faciais, postura corporal,
-entre outros elementos*, para transmitir uma mensagem. Muito utilizada em situações em que a *linguagem verbal
-não é suficiente para transimitir a mensagem desejada*.
+- #### Quantidade de pessoas:
+    - ##### Intrapessoal
+        Comuncação feita consigo mesmo.
 
-- **Comunicação interpessoal**:
-Comunicação que ocorre entre *duas ou mais pessoas*, envolvendo um processo de troca de informações e interação social
+    - ##### Interpessoal
+        Comunicação entre duas pessoas.
 
-- **Comunicação em massa**:
-É a forma de comunicaçao que ocorre por canais de mídia,
-como televisão, rádio, jornais e revistas, atingindo um
-grande número de receptores.
+    - ##### Intergrupal
+        Comunicação é *transmitida* entre grupos.
+
+    - ##### Intragrupal 
+        Comunicação realizada com duas ou mais pessoas.
+
+    - ##### Em massa
+        Comunicação onde a mensagem é transmitida de um emissor para um grupo (meios de comunicação como rádio).
+
+- #### Direcionalidade
+    - ##### Unidirecional
+        Quando a mensagem é transmitida e não há resposta.
+    - ##### Bidirecional
+        Quando existe uma partipação equivalente e troca de funções entre emissor e receptor
+
+- #### De acordo com o tipo de mensagem
+    - ##### Visual
+        Quando a mensagem utiliza recursos visuais
+    
+    - ##### Auditiva
+
+    - ##### Tátil
+    - ##### Visual
+    - ##### Visual 
+
+
+
 
 <br>
 
