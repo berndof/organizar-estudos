@@ -1,6 +1,6 @@
 # Compreendendo os Fundamentos da Comunicação Humana
 
-## **Conceito de Comunicação**
+## **Conceitos de Comunicação**
 
 A comunicação é uma atividade humana essencial 
 para o convivio em sociedade pois é um processo 
@@ -33,7 +33,6 @@ Alguns dos principais tipos de comunicação são:
 - #### Direta ou indireta:
     - **Direta** 
         Quando o emissor e o receptor trocam as mensagens diretamente, sem nenhum intermediário.
-    
     - **Indireta**
         Quando há um intermediário entre o emissor e o receptor,
         por exemplo carta, livro, telefone, etc.
@@ -41,45 +40,41 @@ Alguns dos principais tipos de comunicação são:
 - #### Quantidade de pessoas:
     - **Intrapessoal**
         Comuncação feita consigo mesmo.
-
     - **Interpessoal**
         Comunicação entre duas pessoas.
-
     - **Intergrupal**
         Comunicação é *transmitida* entre grupos.
-
     - **Intragrupal** 
         Comunicação realizada com duas ou mais pessoas.
-
     - **Em massa**
         Comunicação onde a mensagem é transmitida de um emissor para um grupo (meios de comunicação como rádio).
 
 - #### Direcionalidade
     - **Unidirecional**
         Quando a mensagem é transmitida e não há resposta.
-
     - **Bidirecional**
         Quando existe uma partipação equivalente e troca de funções entre emissor e receptor
 
 - #### De acordo com o tipo de mensagem
     - **Visual**
-        Quando a mensagem utiliza recursos visuais
-    
+        Quando a mensagem utiliza recursos visuais.
     - **Auditiva**
-        Quando é transmitida por meio de sons
+        Quando é transmitida por meio de sons.
     - **Tátil**
+        Realizada por meio do toque.
+    -  **Olfativa**
+        Envolve o olfato.
+    - **Gustativa**
+        Envolve o paladar.
 
-    -  **Viual**
-    - ##### Visual 
-
-
-
+Obviamente, existem outras classificações para os tipos de comunicação,como: pessoal, profissional, aberta, fechada, pública, secreta, etc.
 
 <br>
 
 ### **Componentes da Comunicação**
 
-Os componentes podem variar depende da abordagem e do leitor em questão, mas se considerarmos uma interpretação canônica, os componentes são:
+Os componentes podem variar depende da abordagem e do leitor em questão,
+mas se considerarmos um modelo canônico, os componentes são:
 
 <br>
 
@@ -103,20 +98,37 @@ O indivíduo ou a entidade que produz e envia a mensagem.
 
 <br>
 
-## **As máximas de Grice**
+### **As máximas comunicacionais de Grice**
 
+De acordo com Grice, para que haja uma comunicação eficiente, deve
+existir uma cooperação entre os participantes da interação, para isso
+Grice descreveu as Máximas, que servem como principios para garantir uma
+comunicação eficiente.
 
+ - #### Máxima de qualidade:
+    Preza que a mensagem seja o **mais verdadeira possível**, *sem afirmações* sobre algo que se **acredita** ser falso.
+
+ - #### Máxima de quantidade
+    A mensagem transmitida, não ter **nem menos, nem mais** *informação, do que o necessário* para alcançar o objetivo da situação comunicacional
+
+ - #### Máxima de relevância
+    A contribuição para a situação comunicacional deve ser **relevante** e **pertinente** ao objetivo da interação.
+
+ - #### Máxima de modo
+    A mensagem tem de ser **clara**, sem ambiguidade e comunicada de maneira **breve e organizada**
 
 
 ## **Relação de comunicação, linguagem e lingua**
 
-Linguagem é um sistema complexo de símbolos que permite a comunicação entre as pessoas. Ela inclui gestos, expressões faciais, linguagem corporal, linguagem verbal (falada ou escrita), entre outras formas de expressão. A linguagem é uma capacidade inata dos seres humanos e é a principal forma de comunicação entre eles.
+Linguagem é um sistema complexo de símbolos e tem como função principal **comunicar**, e não está -necessariamente- atrelada a uma língua específica 
 
-Já a língua é um sistema específico de símbolos utilizados por um grupo ou comunidade para se comunicar. É uma das formas específicas que a linguagem pode assumir para permitir a comunicação entre as pessoas. Cada língua tem suas próprias regras gramaticais, vocabulário e estrutura, e é usada por um grupo específico de pessoas.
+A língua é um sistema específico de símbolos utilizados por um grupo ou comunidade para se comunicar. É uma das formas específicas que a linguagem pode assumir para permitir a comunicação entre as pessoas.
 
-A comunicação, por sua vez, é o processo pelo qual as pessoas compartilham informações, ideias, sentimentos e pensamentos com outras pessoas. Ela pode ocorrer de diversas maneiras, como verbalmente, por meio de linguagem corporal, escrita, visual, dentre outras.
+Podemos abordar duas definições de linguagem:
 
-Dessa forma, a relação entre comunicação, linguagem e língua é bastante estreita. A linguagem é o meio pelo qual a comunicação ocorre, e a língua é uma das formas específicas que a linguagem pode assumir para permitir a comunicação entre as pessoas. Quando duas pessoas falam a mesma língua, elas podem se comunicar mais facilmente do que se falassem línguas diferentes. No entanto, mesmo que falem línguas diferentes, ainda é possível ocorrer comunicação por meio de outras formas da linguagem, como a linguagem corporal.
+1. Linguagem é a **faculdade mental** para empregar diferentes formas e sistemas utilizados na comunicação, **uma capacidade** que permite que o ser humano utilize sistemas (línguas), para estabelecer comunicações com os outros. *Se diferencia da linguagem dos animais pois se desenvolve com a racionalidade*, justamente por meio da **manipulação** dos sistemas de códigos.
+
+2. 
 
 ### 1.4 Meios de comunicação
 
