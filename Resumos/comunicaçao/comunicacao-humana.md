@@ -3,7 +3,7 @@
 ## **Conceitos de Comunicação**
 
 A comunicação é uma atividade humana essencial 
-para o convivio em sociedade pois é um processo 
+para o convívio em sociedade, pois é um processo 
 que envolve transmissão e recepção de informações 
 entre indivíduos ou grupos.
 
@@ -19,27 +19,24 @@ passar do tempo, a origem da palavra tem sentidos que o delimitam:
 1. Comunicação é um *processo **social***; requer interação social
 2. É um fenômeno **objetivo**, transmitir uma mensagem entre transmissor e receptor
 3. É um *processo **ativo***, que te como finalidade, persuadir, informar, influenciar, obter resposta, sensibilizar, etc.
-4 É quas sempre **multidirecional**, uma vez que transmissor e receptor mudam constantemente de papeis durante a interação
+4. É quase sempre **multidirecional**, uma vez que transmissor e receptor mudam constantemente de papéis durante a interação
 
 ### **Tipos de comunicação**
 
-A comunicaçao pode ser classificada de acordo com o
-contexto e as características do provesso comunicativo.
+A comunicação pode ser classificada conforme o contexto e as características do processo comunicativo.
 
 Alguns dos principais tipos de comunicação são:
-
-<br>
 
 - #### Direta ou indireta:
     - **Direta** 
         Quando o emissor e o receptor trocam as mensagens diretamente, sem nenhum intermediário.
     - **Indireta**
         Quando há um intermediário entre o emissor e o receptor,
-        por exemplo carta, livro, telefone, etc.
+        por exemplo, carta, livro, telefone, etc.
 
 - #### Quantidade de pessoas:
     - **Intrapessoal**
-        Comuncação feita consigo mesmo.
+        Comunicação feita consigo mesmo.
     - **Interpessoal**
         Comunicação entre duas pessoas.
     - **Intergrupal**
@@ -53,36 +50,34 @@ Alguns dos principais tipos de comunicação são:
     - **Unidirecional**
         Quando a mensagem é transmitida e não há resposta.
     - **Bidirecional**
-        Quando existe uma partipação equivalente e troca de funções entre emissor e receptor
+        Quando existe uma participação equivalente e troca de funções entre emissor e receptor
 
-- #### De acordo com o tipo de mensagem
+- #### Segundo o tipo de mensagem
     - **Visual**
         Quando a mensagem utiliza recursos visuais.
     - **Auditiva**
         Quando é transmitida por meio de sons.
     - **Tátil**
         Realizada por meio do toque.
-    -  **Olfativa**
+    - **Olfativa**
         Envolve o olfato.
     - **Gustativa**
         Envolve o paladar.
 
-Obviamente, existem outras classificações para os tipos de comunicação,como: pessoal, profissional, aberta, fechada, pública, secreta, etc.
-
-<br>
+Obviamente, existem outras classificações para os tipos de comunicação
+como: pessoal, profissional, aberta, fechada, pública, secreta, etc.
 
 ### **Componentes da Comunicação**
 
 Os componentes podem variar depende da abordagem e do leitor em questão,
 mas se considerarmos um modelo canônico, os componentes são:
 
-<br>
 
 - **Emissor**:
 O indivíduo ou a entidade que produz e envia a mensagem.
 
 - **Mensagem**:
-É o conteúdo da comunicação, pode ser uma ideia, pensamento, informação e etc.
+É o conteúdo da comunicação, pode ser uma ideia, pensamento, informação , e etc
 
 - **Receptor**:
 É o indivíduo ou a entidade que recebe e interpreta a mensagem.
@@ -96,13 +91,12 @@ O indivíduo ou a entidade que produz e envia a mensagem.
 - **Contexto**:
 É o conjunto de elementos que envolvem a comunicação, como o ambiente, cultura, entre outros elementos que influenciam a interpretação da mensagem.
 
-<br>
 
 ### **As máximas comunicacionais de Grice**
 
-De acordo com Grice, para que haja uma comunicação eficiente, deve
+De acordo com Grice, para haver uma comunicação eficiente, deve
 existir uma cooperação entre os participantes da interação, para isso
-Grice descreveu as Máximas, que servem como principios para garantir uma
+Grice descreveu as Máximas, que servem como princípios para garantir uma
 comunicação eficiente.
 
  - #### Máxima de qualidade:
@@ -118,24 +112,50 @@ comunicação eficiente.
     A mensagem tem de ser **clara**, sem ambiguidade e comunicada de maneira **breve e organizada**
 
 
-## **Relação de comunicação, linguagem e lingua**
+## **Relação de comunicação, linguagem e língua**
 
 Linguagem é um sistema complexo de símbolos e tem como função principal **comunicar**, e não está -necessariamente- atrelada a uma língua específica 
 
-A língua é um sistema específico de símbolos utilizados por um grupo ou comunidade para se comunicar. É uma das formas específicas que a linguagem pode assumir para permitir a comunicação entre as pessoas.
+A língua é um sistema específico de símbolos utilizados por um grupo ou comunidade para se comunicar. É uma das formas específicas que a 
+linguagem pode assumir para permitir a comunicação entre as pessoas.
 
 Podemos abordar duas definições de linguagem:
 
-1. Linguagem é a **faculdade mental** para empregar diferentes formas e sistemas utilizados na comunicação, **uma capacidade** que permite que o ser humano utilize sistemas (línguas), para estabelecer comunicações com os outros. *Se diferencia da linguagem dos animais pois se desenvolve com a racionalidade*, justamente por meio da **manipulação** dos sistemas de códigos.
+1. Linguagem é a **faculdade mental** para empregar diferentes formas e sistemas utilizados na comunicação, **uma capacidade** que permite que o ser humano utilize sistemas (línguas),
+para estabelecer comunicações com os outros. Se diferencia da linguagem dos animais pois, se desenvolve com a **racionalidade**, justamente por meio da **manipulação** dos sistemas de códigos.
 
-2. 
+2. Linguagem é **qualquer** *sistema/elemento* que  permite estabelecer uma comunicação, servindo como uma *função social* e considerando **todas** as manifestações que possam ser utilizadas para **expressar uma mensagem**.
 
-### 1.4 Meios de comunicação
+Uma vez definidos os conceitos de linguagem, podemos separar os tipos de comunicação, que se dividem de acordo com o tipo de *"materialização"* da mensagem.
 
-No tópico 1.4, discutimos sobre os meios de comunicação e como eles são importantes para permitir a comunicação entre as pessoas. Os canais de comunicação são os meios pelos quais a comunicação pode ocorrer. Eles incluem o som (fala ou música), a imagem (fotografia ou vídeo), a escrita, a linguagem corporal e outros.
+- **Linguagem Verbal**
+    Utiliza verbalização para a comunicação, ocorre por meio da fala ou da escrita utilizando palavras.
 
-Por exemplo, quando conversamos com alguém, estamos usando a fala como um canal de comunicação. Quando enviamos uma mensagem de texto ou e-mail, estamos usando a escrita como um canal de comunicação. Quando assistimos a um vídeo, estamos usando a imagem e o som como canais de comunicação.
+- **Linguagem Não verbal**
+    Não utiliza verbalização para transmitir a mensagem.
 
-As novas tecnologias também têm um grande impacto na forma como as pessoas se comunicam atualmente. A internet, smartphones e mídias sociais permitem a comunicação em tempo real e a conexão entre pessoas em todo o mundo. No entanto, elas também apresentam novos desafios, como a sobrecarga de informações e a necessidade de discernir informações precisas das falsas.
+- **Linguagem Mista**
+    Mistura a linguagem verbal e não verbal, utilizando dos recursos de ambas.
 
-Por isso, é importante entender os diferentes canais de comunicação disponíveis e escolher o mais apropriado para cada situação. Além disso, é importante desenvolver habilidades de comunicação eficazes, como ouvir ativamente e expressar ideias de forma clara e concisa, independentemente do canal de comunicação escolhido.
+- **Linguagem Artificial**
+    Linguagem desenvolvida para um uso específico, por exemplo, linguagens de programação
+
+### As funções da linguagem de Jakobson
+
+- **Função Referencial (denotativa)**
+    Enfatiza o referente de uma mensagem, transmitindo informações sobre esse referente.
+
+- **Função Emotiva (expressiva)**
+    Função em que o emissor explicita suas emoções, opiniões, sentimentos, crença. Tem o emissor como foco.
+
+- **Função Conativa (apelativa)**
+    Visa persuadir/convencer o receptor da mensagem.
+
+- **Função fática**
+    É aquela que inicia ou termina uma interação conversacional, tem como foco a relação entre o emissor e o receptor (saudações e cumprimentos).
+
+- **Função Metalinguística**
+    Utiliza a linguagem para falar da própria linguagem.
+
+- **Função Poética**
+    Se importa com a estética da mensagem.
