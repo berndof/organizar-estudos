@@ -1,4 +1,4 @@
-# **Indices**
+# **Indice**
 - ## **Lógica Proposicional**
     - ### Proposições
         - ### Conectivos
