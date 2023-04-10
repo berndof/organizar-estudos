@@ -31,43 +31,45 @@ Alguns dos principais tipos de comunicação são:
 <br>
 
 - #### Direta ou indireta:
-    - ##### Direta 
+    - **Direta** 
         Quando o emissor e o receptor trocam as mensagens diretamente, sem nenhum intermediário.
     
-    - ##### Indireta
+    - **Indireta**
         Quando há um intermediário entre o emissor e o receptor,
         por exemplo carta, livro, telefone, etc.
 
 - #### Quantidade de pessoas:
-    - ##### Intrapessoal
+    - **Intrapessoal**
         Comuncação feita consigo mesmo.
 
-    - ##### Interpessoal
+    - **Interpessoal**
         Comunicação entre duas pessoas.
 
-    - ##### Intergrupal
+    - **Intergrupal**
         Comunicação é *transmitida* entre grupos.
 
-    - ##### Intragrupal 
+    - **Intragrupal** 
         Comunicação realizada com duas ou mais pessoas.
 
-    - ##### Em massa
+    - **Em massa**
         Comunicação onde a mensagem é transmitida de um emissor para um grupo (meios de comunicação como rádio).
 
 - #### Direcionalidade
-    - ##### Unidirecional
+    - **Unidirecional**
         Quando a mensagem é transmitida e não há resposta.
-    - ##### Bidirecional
+
+    - **Bidirecional**
         Quando existe uma partipação equivalente e troca de funções entre emissor e receptor
 
 - #### De acordo com o tipo de mensagem
-    - ##### Visual
+    - **Visual**
         Quando a mensagem utiliza recursos visuais
     
-    - ##### Auditiva
+    - **Auditiva**
+        Quando é transmitida por meio de sons
+    - **Tátil**
 
-    - ##### Tátil
-    - ##### Visual
+    -  **Viual**
     - ##### Visual 
 
 
