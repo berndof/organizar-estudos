@@ -1,9 +1,8 @@
-# **Pensamento Computacional**
-- [x] Lógica Matemática
-- [x] Lógica Quantitativa
-- [ ] Lógica Numérica
-- [ ] Introdução a Lógica de Programação
-- [ ] EM ANDAMENTO
-# Referências
+# Lógica Proposicional
+- ## Proposições
+    - ### Conectivos
+# Fórmulas lógicas e tabela-verdade
+- ## Exemplos de tabela-verdade
 
-BARONETT, Lógica : uma introdução voltada para as ciências. Bookman, 2009. Capítulo 7
+# Lógica Quantitativa
+- ## Quantificação
