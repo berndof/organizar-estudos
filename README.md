@@ -1,19 +1,27 @@
 # **Meus estudos 📚**
 
-## Teoria da Comunicação
+[EM ANDAMENTO]
 
-## Filosofia
+## **Fundamentos de Comunicação**
+- [x] Compreendendo os Fundamentos da Comunicação Humana
+- [ ] Comunicação Oral
+- [ ] Comunicação Escrita
+- [ ] Eficácia na Comunicação Oral 
 
-## Fundamentos de redes de computadores
+## **Fundamentos de redes de computadores**
 - [x] Conceitos Básicos
-- [x] Tipos de redes
 - [x] Arquiteturas
-- [x] Protocolos
-- [ ] Tipos de transmissão (Camada Física)
+- [ ] Camada Física 
+- [ ] Meios de Comunicação
+- [ ] Principais Funções 
+- [ ] Protocolo Ethernet
 
 ## Pensamento computacional
-- [x] Lógica matematica
-- [ ] Lógica quantitativa
+- [x] Lógica Matematica
+- [ ] Lógica Quantitativa
+- [ ] Lógica Númerica
+- [ ] Introdução a Lógica de Programção
+- [ ] Introdução a Algoritmos
 
 ## Java
   - [ ] EM ANDAMENTO
@@ -22,7 +30,6 @@
   - [ ] EM ANDAMENTO
 
 ## Python
-- [x] PyQt6
 - [ ] Flask (EM ANDAMENTO)
 - [ ] Django (EM ANDAMENTO)
 
@@ -42,6 +49,3 @@
     - [x] Random Forest
     - [ ] EM ANDAMENTO
 
-
-## Links úteis
-https://github/bernsdof
