@@ -4,5 +4,6 @@
         - ### Tipos de comunicação
         - ### Componentes comunicação
         - ### As máximas de Grice
+        - ### Ruídos na comunicação
     - ## Relação de comunicação, linguagem e língua 
         - ### As funções da linguagem de Jakobson
