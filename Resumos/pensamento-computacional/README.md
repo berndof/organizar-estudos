@@ -6,4 +6,4 @@
     - ### Exemplos de tabela-verdade
 
 - ## **Lógica Quantitativa**
-    - ### Quantificação
+    - ### 
