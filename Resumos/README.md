@@ -1,4 +1,3 @@
-
 # **Fundamentos de Comunicação**
 - ## **Compreendendo os Fundamentos da Comunicação Humana**
     - ### Conceitos de comunicação
