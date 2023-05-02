@@ -1,5 +1,3 @@
-import sympy
-
 
 lim_inferior = None
 lim_superior = None
